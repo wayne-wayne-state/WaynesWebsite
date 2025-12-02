@@ -23,7 +23,13 @@
 }
 
 .p4 {font-family: "Comic Sans MS", "Comic Sans", cursive; 
-  font-size:25px;
+  font-size:15px;
+  color: black;
+  -webkit-text-stroke: 2px white;
+}
+
+.p5 {font-family: "Comic Sans MS", "Comic Sans", cursive; 
+  font-size:22px;
   color: black;
   -webkit-text-stroke: 2px white;
 }
@@ -108,23 +114,63 @@ background-color:floralwhite;
 <!--My Art-->
 
 <h1 class="p2" id="rcorners4"> My Concept Art </h1>
-<p class="p4" id="rcorners5">Wayne Hearns Concept Art - Underground Labatory by Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Underground Labatory by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="Lab-Outline-Handrawn-Sketch.jpg" width="1000" height="1000">
 
 
-<p class="p4" id="rcorners5">Wayne Hearns Concept Art - Muay Thai Concept Art by Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Muay Thai Concept Art by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="Muay-Thai-Concept-Art_page-0001.jpg" width="1000" height="1000">
 
 
-<p class="p4" id="rcorners5">Wayne Hearns Concept Art - Portal To My Creative Mind by Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Portal To My Creative Mind by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="Monster-Mind-Portrait_page-0001.jpg" width="1000" height="1000">
 
 
-<p class="p4" id="rcorners5">Wayne Hearns Concept Art - Scary Pumpkin Concept Art Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Scary Pumpkin Concept Art Wayne Landon Hearns II</p>
 <img id="rcorners3" src="Cartoon-Scary-Pumpkin_page-0001.jpg" width="1000" height="1000">
 
-<p class="p4" id="rcorners5">Wayne Hearns Concept Art - Window View Concept Art Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Window View Concept Art Wayne Landon Hearns II</p>
 <img id="rcorners3" src="Environment-Drawing_page-0001.jpg" width="1000" height="1000">
+
+<p class="p4" id="rcorners5">Unity By One Flame Wayne Landon Hearns II</p>
+<img id="rcorners3" src="WayneHearns_MonsterHarmonyArtPieceFinishedPiece.png" width="1000" height="1000">
+
+<h1 class="p2" id="rcorners4">Bio</h1>
+<p class="p5" id="rcorners5"> Wayne Hearns was born in Detroit, Michigan but has lived in Farmington Hills for most of his life. As he got older, Wayne fell in love with creating monsters, which has become the main focus of his art. As he continues his college education, Wayne remains to be an inspiring digital concept artist that works with 2D, 3D, Video media, and metal sculpting. Wayne graduated from Oakland Community College in 2023 with his associates in his Fine Arts and Technological Sciences and is currently attending Wayne State University for his Bachelor's of Fine Arts with a concetration in digital art. </p> 
+
+<h1 class="p2" id="rcorners4">CV</h1>
+<p class="p5" id="rcorners5">
+<U>Education</U>  
+<br><br>
+Oakland Community College <br>
+Bachelor's Degree 
+Fine Arts 
+Technological Sciences  
+Started:2017 
+Graduation:2023  
+<br><br>Wayne State University <br>
+Currently working towards  
+Digital art 
+Started: Fall 2023 
+Expected Graduation:2026 
+<br><br>
+<U>Exhibitions Solo/Group 
+Group Exhibition:</U> 
+<br><br>
+2024 Temporal Frames, Art at 
+Wayne Open Houses, Detroit, 
+Mi, USA
+<br><br>
+<U>Experience</U> 
+<br><br>
+Premiere Pro Experience 
+Blu Wedding Films | Utah 
+April 9th, 2022-July-2022
+</p> 
+
+<h1 class="p2" id="rcorners4">Contact Information</h1>
+<p class="p4" id="rcorners5">Email: Landonhearns001@gmail.com
+</p>
 
 
 </body>
