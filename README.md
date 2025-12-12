@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -107,7 +106,6 @@ background-color:floralwhite;
 
 <p class="p1" id="rcorners1">Hello, my name is Wayne Landon Hearns II and my blog is going to be about Concept art. Ever since I was a child I have loved drawing, and as I got older, I realized that there were a lot of routes you can go with drawing. You can go animation, graphic design, Industrial design, Environmental or Comics, but I realized I had passion for being a Monster concept artist/digital illustrator. That is my passion and that is my main goal so I thought it would be cool to post about other different amazing concept artists to motivate others and to share different work from great concept artist that are in the industry.  
 </p>
-</body>
 
 <body background="doogle-2-drawing.jpg">
 
@@ -144,10 +142,10 @@ background-color:floralwhite;
 <p class="p4" id="rcorners5">Todd by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="WayneHearns-Todd.png" width="1100" height="1100">
 
-<p class="p4" id="rcorners5">Monster Mimic-Delivery Box Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Monster Mimic-Delivery Box by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="MonsterBox_page-0001.jpg" width="1100" height="1100">
 
-<p class="p4" id="rcorners5">Elite Weapons Concept art-Delivery Box Wayne Landon Hearns II</p>
+<p class="p4" id="rcorners5">Elite Weapons by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="weapons_page-0001.jpg" width="1100" height="1100">
 
 
