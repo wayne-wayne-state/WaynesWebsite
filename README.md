@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -134,6 +135,25 @@ background-color:floralwhite;
 <p class="p4" id="rcorners5">Unity Of One Flame by Wayne Landon Hearns II</p>
 <img id="rcorners3" src="WayneHearns_MonsterHarmonyArtPieceFinishedPiece.png" width="1100" height="1100">
 
+<p class="p4" id="rcorners5">Nightmare Series by Wayne Landon Hearns II</p>
+<img id="rcorners3" src="Nightmare-Series.jpg" width="1100" height="1100">
+
+<p class="p4" id="rcorners5">Rage by Wayne Landon Hearns II</p>
+<img id="rcorners3" src="Rage.jpg" width="1100" height="1100">
+
+<p class="p4" id="rcorners5">Todd by Wayne Landon Hearns II</p>
+<img id="rcorners3" src="WayneHearns-Todd.png" width="1100" height="1100">
+
+<p class="p4" id="rcorners5">Monster Mimic-Delivery Box Wayne Landon Hearns II</p>
+<img id="rcorners3" src="MonsterBox_page-0001.jpg" width="1100" height="1100">
+
+<p class="p4" id="rcorners5">Elite Weapons Concept art-Delivery Box Wayne Landon Hearns II</p>
+<img id="rcorners3" src="weapons_page-0001.jpg" width="1100" height="1100">
+
+
+
+
+
 <h1 class="p2" id="rcorners4">Bio</h1>
 <p class="p5" id="rcorners5"> Wayne Hearns was born in Detroit, Michigan but has lived in Farmington Hills for most of his life. As he got older, Wayne fell in love with creating monsters, which has become the main focus of his art. As he continues his college education, Wayne remains to be an inspiring digital concept artist that works with 2D, 3D, Video media, and metal sculpting. Wayne graduated from Oakland Community College in 2023 with his associates in his Fine Arts and Technological Sciences and is currently attending Wayne State University for his Bachelor's of Fine Arts with a concetration in digital art. </p> 
 
@@ -159,6 +179,8 @@ Group Exhibition:</U>
 2024 Temporal Frames, Art at 
 Wayne Open Houses, Detroit, 
 Mi, USA
+<br><br>2025 Prism, Art at Wayne State 
+Student Exhibition, Detroit, Mi, USA 
 <br><br>
 <U>Experience</U> 
 <br><br>
